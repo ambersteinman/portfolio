@@ -1,3 +1,1 @@
-## Portfolio
-
-My name is Amber Steinman
+https://ambersteinman.github.io/portfolio/
